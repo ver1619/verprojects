@@ -42,5 +42,5 @@ After successful login, the program offers basic ATM features like:
 
 #### 🚪 Exit the Program
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5030813a-42c9-4122-b221-420dbceccfd7" width="520" />
+  <img src="<img width="766" height="275" alt="image" src="https://github.com/user-attachments/assets/ec3c7d31-d910-46e2-aaa3-0bacac9cb78c" />
 </p>
